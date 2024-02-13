@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.ece80913.css",
+    "main.js": "/my-react-portfolio/static/js/main.f3a3a6bb.js",
+    "static/media/Screenshot (58).png": "/my-react-portfolio/static/media/Screenshot (58).f1c1473a4aece715ce90.png",
+    "static/media/Screenshot (57).png": "/my-react-portfolio/static/media/Screenshot (57).022f778074a70a9c3c8d.png",
+    "static/media/Screenshot (60).png": "/my-react-portfolio/static/media/Screenshot (60).544c17fe8792ab66c123.png",
+    "static/media/Screenshot (62).png": "/my-react-portfolio/static/media/Screenshot (62).c39b91bd1befdbbb23e5.png",
+    "static/media/Screenshot (59).png": "/my-react-portfolio/static/media/Screenshot (59).4c4a157b7e3a001ec83d.png",
+    "static/media/Snapchat-986746536.jpg": "/my-react-portfolio/static/media/Snapchat-986746536.449d4641bddb457aaf4d.jpg",
+    "static/media/Screenshot (61).png": "/my-react-portfolio/static/media/Screenshot (61).4c1be5ca89891be76e87.png",
+    "static/media/images-removebg-preview.png": "/my-react-portfolio/static/media/images-removebg-preview.5ec22987abeff77cd1da.png",
+    "static/media/images__1_-removebg-preview.png": "/my-react-portfolio/static/media/images__1_-removebg-preview.27475f1317b661f5a457.png",
+    "static/media/ui-design.png": "/my-react-portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/my-react-portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.ece80913.css.map": "/my-react-portfolio/static/css/main.ece80913.css.map",
+    "main.f3a3a6bb.js.map": "/my-react-portfolio/static/js/main.f3a3a6bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ece80913.css",
+    "static/js/main.f3a3a6bb.js"
+  ]
+}
